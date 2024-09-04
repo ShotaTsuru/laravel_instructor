@@ -1,0 +1,2 @@
+# laravel_instructor
+laravel講師を行うにあたってのサンプルアプリ作成
